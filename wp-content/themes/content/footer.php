@@ -1,4 +1,3 @@
-
 <!-- Footer Section -->
 <footer class="site-footer">		
 	<div class="container">
@@ -7,6 +6,7 @@
 			<div class="col-md-12">
 					<div class="site-info wow fadeIn animated" data-wow-delay="0.4s">
 						Brian Verschoore +32489387038 
+						 <a href="http://briaverscmslabo01.local/privacy-policy/">privacy Poloice</a> 
 					</div>
 				</div>			
 			</div>	
